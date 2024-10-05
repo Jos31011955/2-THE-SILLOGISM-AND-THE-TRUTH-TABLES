@@ -2,12 +2,16 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# The Syllogism and the truth tables
 
 Final project for the Building AI course
-“The Syllogism and the truth tables”
 
-## Summary
+
+## Summary 2. Context = First teaching of the logic of the Syllogism to children
+3. Data and AI techniques = a) Data Used: Major and Minor Premises: These are sentences entered by the user that represent logical statements.
+Truth Values: The user enters the truth values ​​(true or false) for the major and minor premises.
+b) Choice of Logical Connective: The program chooses the type of logical connective to apply between the premises.
+
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length!
 2. Context = First teaching of the logic of the Syllogism to children

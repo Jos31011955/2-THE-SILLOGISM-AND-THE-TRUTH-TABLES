@@ -60,7 +60,7 @@ User Input: The program requires input from the user for the premises, truth val
 Result Output: Prints the result of the logical operation and the truth values ​​of the conclusions.
 4. How it is used=by high school students
 5. Challenges=to practically learn how the Syllogism works and the function of the Truth Tables
-6. Thanks=Microsoft “Copilot” for helping in developing the code
+6. Thanks=Microsoft “Copilot” for helping in developing the code.
 def main():
     # Request the major premise
     major_premise = input("Enter the major premise (e.g., 'The sky is blue'): ")

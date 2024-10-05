@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # The Syllogism and the truth tables
 
-Final project for the Building AI course
+Final project for the  Building AI course
 
 ## Summary 2. Context = First teaching of the logic of the Syllogism to children
 3. Data and AI techniques = a) Data Used: Major and Minor Premises: These are sentences entered by the user that represent logical statements.

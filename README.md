@@ -8,7 +8,7 @@ Final project for the  Building AI course
 
 ## Summary 2. Context = First teaching of the logic of the Syllogism to children
 3. Data and AI techniques = a) Data Used: Major and Minor Premises: These are sentences entered by the user that represent logical statements.
-Truth Values: The user enters the truth values ​​(true or false) for the major and minor premises.
+Truth Values: The program enters the truth values ​​(true or false) for the major and minor premises.
 b) Choice of Logical Connective: The program chooses the type of logical connective to apply between the premises.
 
 
